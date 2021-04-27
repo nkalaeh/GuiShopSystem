@@ -1,5 +1,5 @@
 # GuiShopSystem
-Simple Shop System
+Simple Shop System w/ GUI and relational database usage written in Java
 
 For educational purposes only.
 
